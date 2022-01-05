@@ -1,0 +1,62 @@
+
+
+h1{
+    font-size: 60px;
+    color: orangered;
+}
+h2{
+    font-size: 30px;
+    color:peru;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    padding: 2px;
+    margin: 5%;
+
+}
+.Alamone{
+    display: flex;
+    margin: 5%;
+    padding: 10px 20px;
+    margin-bottom: 200px;
+}
+.imageone{
+    padding: 5px 10px;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    background-color: orchid;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.Alamsecond{
+    display: flex;
+    padding: 10px;
+    
+}
+.imagetwo{
+    padding: 5px 10px;
+}
+.journey{
+    color:springgreen;
+    font-weight: bold;
+    padding: 10px 50px;
+}
+.Alamtwoagain{
+    padding: 10px 40px;
+}
+.imageclassone{
+    padding: 80px 20px;
+    box-shadow: 10px 10px 40px rgb(6, 88, 241);
+    
+}
+.imageclass{
+    display: flex;
+    margin: 5%;
+    box-shadow: 10px 10px 40px rgb(199, 79, 32);
+    
+    
+}
